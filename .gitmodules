@@ -1,0 +1,3 @@
+[submodule "testcli"]
+	path = testcli
+	url = git@github.com:jthistlethwaite/testcli.git
